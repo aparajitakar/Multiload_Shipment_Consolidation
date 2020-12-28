@@ -13,7 +13,7 @@ def ComputeDistance(df):
     # enter your google API key
     # you need to get your own API key
     # See https://developers.google.com/maps/documentation/distance-matrix/get-api-key
-    gmaps = googlemaps.Client(key='AIzaSyC2mK4lLVZMMaOyeJjw0moHv6j8TqVkgaQ')
+    gmaps = googlemaps.Client(key='add api key here')
 
     # create origins and destinations
     origins = ["Laredo,TX"]
